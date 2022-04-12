@@ -15,7 +15,7 @@
     "jxLoader": "0.1.1",
     "moo-server": "*",
     "promised-io": "*",
-    "walker": "1.x",
+    "walker": "1.0.8",
     "winston": "*",
     "jsmin": "1.x",
     "cssmin": "0.3.x",
