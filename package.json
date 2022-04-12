@@ -16,7 +16,7 @@
     "moo-server": "*",
     "promised-io": "*",
     "walker": "1.0.8",
-    "winston": "*",
+    "winston": "^3.7.2",
     "jsmin": "1.x",
     "cssmin": "0.3.x",
     "uglify-js": "^3.15.4",
