@@ -9,7 +9,7 @@
   },
   "main": "./builder.js",
   "engines": {
-    "node": ">v0.4.12"
+    "node": ">v10.4.12"
   },
   "dependencies": {
     "jxLoader": "^0.1.1",
