@@ -12,7 +12,7 @@
     "node": ">v10.4.12"
   },
   "dependencies": {
-    "jxLoader": "^0.1.1",
+    "jxLoader": "https://github.com/shreyasch/jxLoader.git",
     "moo-server": "*",
     "promised-io": "*",
     "walker": "1.0.8",
